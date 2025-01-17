@@ -9,7 +9,7 @@ pip
 Clonez le dépôt :  
 ```bash
   git clone https://github.com/CCI-CDA/SpamClassifierDIDEF.git
-  cd pythonewample
+  cd pythonexample
 ```
 
 ## Installez les paquets requis :  
