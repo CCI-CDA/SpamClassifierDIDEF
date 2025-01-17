@@ -8,8 +8,8 @@ pip
 ## Installation
 Clonez le dépôt :  
 ```bash
-  git clone https://github.com/ItsCastoor/spam-detection-thomas.git
-  cd spam-detection-thomas
+  git clone https://github.com/CCI-CDA/SpamClassifierDIDEF.git
+  cd pythonewample
 ```
 
 ## Installez les paquets requis :  
